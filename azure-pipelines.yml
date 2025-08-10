@@ -20,7 +20,7 @@ steps:
     command: 'init'
     workingDirectory: $(workdir)
     backendServiceArm: $(services)
-    backendAzureRmStorageAccountName: 'aman-sa'
+    backendAzureRmStorageAccountName: 'nehasa123'
     backendAzureRmContainerName: 'sacont'
     backendAzureRmKey: 'tfstate'
 
