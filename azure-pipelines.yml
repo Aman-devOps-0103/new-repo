@@ -3,7 +3,7 @@ trigger: none
 pool: aman-pipeline
 
 variables:
-  workdir: '$(System.DefaultWorkingDirectory)\pipelines\neha\aman'
+  workdir: '$(System.DefaultWorkingDirectory)\pipelines\workdir\1\s'
   services: 'Pipeline connection'
 
 
