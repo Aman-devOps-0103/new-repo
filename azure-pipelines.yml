@@ -1,9 +1,9 @@
 trigger: none
 
-pool: aman-ki-pipeline
+pool: aman-pipeline
 
 variables:
-  workdir: '$(System.DefaultWorkingDirectory)\C:\Users\Acer\Downloads\Aman Pipeline\work\aman'
+  workdir: '$(System.DefaultWorkingDirectory)C:\pipelines\neha\aman'
   services: 'Pipeline connection'
 
 
